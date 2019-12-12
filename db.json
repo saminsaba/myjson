@@ -1,11 +1,11 @@
 [
- - {
+ "-" {
   "id": 1,
   "name": "Will" ,
   "drink": "Cream"
  },
 
- - { "id": 2,
+ "-" { "id": 2,
   "name": "Laura" ,
   "drink": "Vanilla cream"
  }
