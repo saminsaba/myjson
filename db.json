@@ -1,12 +1,12 @@
 [
  - {
-  id: 1,
-  name: "Will" ,
-  drink: "Cream"
+  "id": 1,
+  "name": "Will" ,
+  "drink": "Cream"
  },
 
- - { id: 2,
-  name: "Laura" ,
-  drink: "Vanilla cream"
+ - { "id": 2,
+  "name": "Laura" ,
+  "drink": "Vanilla cream"
  }
 ]
