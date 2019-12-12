@@ -1,7 +1,11 @@
-[
-    { "id": 1, "title": "Post 1" }
-  ],
+{
+    { 
+    "id": 1,
+    "title": "Post 1" }
+},
 
-[
-    { "id": 1, "body": "some comment", }
-  ]
+{
+    {
+    "id": 1,
+    "comment": "some comment", }
+}
