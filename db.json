@@ -1,9 +1,7 @@
-  
-{
-  "Name": [
+[
     { "id": 1, "title": "Post 1" }
   ],
-  "Comments": [
+
+[
     { "id": 1, "body": "some comment", }
   ]
-}
